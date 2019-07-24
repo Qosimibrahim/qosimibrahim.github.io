@@ -1,0 +1,223 @@
+nav{
+    overflow: hidden;
+}
+div{
+    text-align: justify;
+}
+
+.whyd {
+    width: 600px;
+    height: 50px;
+    position: fixed;
+    margin-left: 0px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-style: bold;
+    text-decoration: none;
+}
+.design {
+    width: 200px;
+    height: 50px;
+    position: fixed;
+    margin-left: 700px;
+    margin-top: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.features {
+    width: 200px;
+    height: 50px;
+    position: fixed;
+    margin-left: 900px;
+    margin-top: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.tech {
+    width: 200px;
+    height: 50px;
+    position: fixed;
+    margin-left: 1100px;
+    margin-top: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.logo {
+    width: 100px;
+    height: 200px;
+    position: fixed;
+    margin-left: 1300px;
+    margin-top: 0px;
+} 
+.first{
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 550px;
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.watch {
+    position: absolute;
+    margin-top: 240px;
+    margin-left: 545px;
+}
+.image1 {
+    float: left;
+    margin-top: 410px ;
+}
+.image2 {
+    float: left;
+    margin-top: 410px ;
+}
+.image3 {
+    float: left;
+    margin-top: 410px ;
+}
+.lineimage{
+    margin-left: 185px;
+    margin-bottom: 50px;
+}
+.lineimage div{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#one{
+    clear: left;
+    padding-top: 100px;
+    margin: 0px 0px 0px 250px;
+}
+#ithead{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace; 
+}
+.aside{
+    position: absolute;
+    margin-top: -18px;
+    margin-left: 500px;
+    text-align: justify;
+    
+}
+p{
+    text-align: justify;
+}
+.image4{
+    margin: 190px 0px 0px 280px;
+}
+.ask{
+    float: left;
+    margin-top: 20px;
+    margin-left: 300px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+
+}
+.needback{
+    float: left;
+    background-color: rgb(206, 203, 203);
+    width: 400px;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.image5{
+    margin-left: 280px;
+    margin-top: 250px;
+}
+.image6{
+    position: absolute;
+    margin-left: 800px;
+    margin-top: -500px;
+}
+.image7{
+    margin-left: 200px;
+    margin-top: 170px;
+}
+.no1{
+    position: absolute;
+    margin-top: -450px;
+    margin-left: 800px;
+}
+.no2{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 300px;
+}
+.no3{
+    position: absolute;
+    margin-top: -340px;
+    margin-left: 800px;
+}
+.aesthetic {
+    position: absolute;
+    margin-top: -400px;
+    margin-left: 800px;
+    text-align: justify;
+}
+
+#quality{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: italic;
+    margin-top: -100px;
+    margin-left: 800px;
+}
+.high{
+    margin-top: 160px;
+    margin-left: 300px;
+}
+.simplicity{
+    position: absolute;
+    margin-top: -300px;
+    margin-left: 800px;
+    text-align: justify;
+}
+#davinci{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: italic;
+    margin-top: 10px;
+    margin-left: 200px;
+}
+p{
+    text-align: justify;
+}
+footer{
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 100px;
+}
+.whyd1{
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    margin-top: 50px;
+}
+.design1{
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 800px;
+}
+.features1{
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 950px;
+}
+.tech1{
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 1050px;
+}
+.faq{
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 1170px;
+}
+.contact{
+    border-spacing: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 1220px;
+}
